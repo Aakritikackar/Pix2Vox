@@ -1,9 +1,10 @@
 # Pix2Vox
 
-This repository contains the source code for the paper [Pix2Vox: Context-aware 3D Reconstruction from Single and Multi-view Images](https://arxiv.org/abs/1901.11153).
-
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/hzxie/Pix2Vox.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/hzxie/Pix2Vox/context:python)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/hzxie/Pix2Vox.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/hzxie/Pix2Vox/alerts/)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pix2vox-context-aware-3d-reconstruction-from/3d-reconstruction-on-data3dr2n2)](https://paperswithcode.com/sota/3d-reconstruction-on-data3dr2n2?p=pix2vox-context-aware-3d-reconstruction-from)
+
+This repository contains the source code for the paper [Pix2Vox: Context-aware 3D Reconstruction from Single and Multi-view Images](https://arxiv.org/abs/1901.11153).
 
 ![Overview](https://infinitescript.com/wordpress/wp-content/uploads/2019/04/Pix2Vox-Overview.jpg)
 
